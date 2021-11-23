@@ -5,7 +5,7 @@ author: zo54hoko
 anrechnung:  a
 ---
 
-Neue Herausforderungen entwickeln sich unter anderem durch den schnellen technischen Fortschritt, die Megatrends, wodurch eine digitale Transformation entsteht und auch durch die Globalisierung entwickeln sich Komplexitäten für das Projektmanagement. Diese komplexen Projekte benötigen Fachkenntnisse, um Ziele erfolgreich erlangen zu können[^1]. 
+Neue Herausforderungen entwickeln sich unter anderem durch den schnellen technischen Fortschritt, die Megatrends, wodurch eine digitale Transformation entsteht und auch durch die Globalisierung entwickeln sich Schwierigkeiten für das Projektmanagement. Diese komplexen Projekte benötigen Fachkenntnisse, um Ziele erfolgreich erlangen zu können[^1]. 
 Die Nutzung von agilem [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist in den vergangenen Jahren immer mehr gestiegen und wird auch immer weiter wachsen[^2]. 
 
 
