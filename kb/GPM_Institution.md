@@ -44,7 +44,7 @@ Ergebnisse der Studien berichten über [aktuelle Entwicklungen und zukünftige T
 ## Beispiel einer GPM-Studie aus dem Jahre 2007
 
 ![Beispielabbildung](https://blog.ibo.de/wp-content/uploads/2013/07/UrsachenProjektfehlschlaege-1024x560.png)
-*Fallen im Projektmanagement*
+*Herausforderungen im Projektmanagement*
 
 # Das GPM Flüchtlingsprojekt 
 
