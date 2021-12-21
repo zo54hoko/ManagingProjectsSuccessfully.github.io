@@ -5,7 +5,7 @@ author: zo54hoko
 anrechnung:  a
 ---
 
-[Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) beinhaltet Aufgaben, wie die Planung, Steuerung, Kontrolle und Oganisation. Ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) ist ein einmaliger Prozess, der einen festen Termin hat und ein bestimmtes Ziel mit definierten Anforderungen verfolgt[^1]. Durch den schnellen technischen Fortschritt entwickeln sich neue Herausforderungen, wodurch eine digitale Transformation entsteht. Auch durch die weltweite Globalisierung entwickeln sich Schwieirgkeiten für das Projektmanagement. Diese komplexen Projekte benötigen Fachkenntnisse, um Ziele erfolgreich erlangen zu können[^2]. 
+[Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) beinhaltet Aufgaben, wie die Planung, Steuerung, Kontrolle und Organisation. Ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) ist ein einmaliger Prozess, der einen festen Termin hat und ein bestimmtes Ziel mit definierten Anforderungen verfolgt[^1]. Durch den schnellen technischen Fortschritt entwickeln sich neue Herausforderungen, wodurch eine digitale Transformation entsteht. Auch durch die weltweite Globalisierung entwickeln sich Schwierigkeiten für das Projektmanagement. Diese komplexen Projekte benötigen Fachkenntnisse, um Ziele erfolgreich erlangen zu können[^2]. 
 Die Nutzung von agilem [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist in den vergangenen Jahren immer mehr gestiegen und wird auch immer weiter wachsen[^3]. 
 
 
@@ -48,10 +48,10 @@ Eine Stärkung des Teamzusammenhalts wird durch Kommunikationsfähigkeiten und e
 
 ## Hybride Projektmanagement-Ansätze 
 
-Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md), als auch [Scrum](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) sind wichtige Komponenten im Projektmanagement. Die hybriden Projektmanagementansätze verbinden sowohl agile, als auch klassische Ansätze aus dem Projektmanagement. Ein großer Vorteil des hybriden Ansatzes entsteht vor allem, wenn Teammitglieder verschiedene Arbeitsstile und Ansichten mitbringen und mit diesen arbeitet[^4].
+Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md), als auch [Scrum](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) sind wichtige Komponenten im Projektmanagement. Die hybriden Projektmanagementansätze verbinden sowohl agile, als auch klassische Ansätze aus dem Projektmanagement. Ein großer Vorteil des hybriden Ansatzes entsteht vor allem, wenn Teammitglieder verschiedene Arbeitsstile und Ansichten mitbringen und mit diesen arbeiten[^4].
 
 
-Besonders die Anwendung von agilen Projektmanagement-Methoden liegen momentan im Trend. Laut der Befragung, die von Bitkom Research durchgeführt wurde, nutzt jedes zweite Unternehmen bereits agiles Projektmanagement. Unter den Befragten ist vor allem die Nutzung von Scrum weitverbreitet (siehe Abbildung)[^5].
+Besonders die Anwendung von agilen Projektmanagement-Methoden liegen momentan im Trend. Laut der Befragung, die von Bitkom Research durchgeführt wurde, nutzt jedes zweite Handelsunternehmen bereits agiles Projektmanagement. Unter den Befragten ist vor allem die Nutzung von Scrum weitverbreitet (siehe Abbildung)[^5].
 
 
 
@@ -66,7 +66,7 @@ Besonders die Anwendung von agilen Projektmanagement-Methoden liegen momentan im
 
 # Umgang mit Trends
 
-Aufstrebende Trends sind immer mit Unsicherheiten verbunden, sei es aufgrund der Dynamik, mit welcher sich der Trend entwickelt, oder wegen der Reaktion der Unternehemen auf diesen Trend. Zunächst müssen die Trends beobachtet werden und auf lange Sicht sollte ein Trendbewusstsein für die eigenen wichtigen Themen aufstellen. Erste Erfahrungen mit Trendthemen sammeln Unternehmen, während sie erste Schritte in Richtung Trend eingehen. Diese ersten Schritte passieren meist, wenn sich Unternehmen in gesicherten Position mit kalkulierbarem Risiko sehen. Wenn diese Ergahrungen mit anderen Unternehmen geteilt wird, entsteht ein Mehrwert für die Unternehmen. Wettbewerbsfreiheit ist vorausgesetzt, wird weiterentwickelt und Organisationen werden somit selbst zum Trendsetter[^6].
+Aufstrebende Trends sind immer mit Unsicherheiten verbunden, sei es aufgrund der Dynamik, mit welcher sich der Trend entwickelt, oder wegen der Reaktion der Unternehmen auf diesen Trend. Zunächst müssen die Trends beobachtet werden und auf lange Sicht sollte ein Trendbewusstsein für die eigenen wichtigen Themen aufgestellt werden. Erste Erfahrungen mit Trendthemen sammeln Unternehmen, während sie erste Schritte in Richtung Trend eingehen. Diese ersten Schritte passieren meist, wenn sich Unternehmen in gesicherten Position mit kalkulierbarem Risiko sehen. Wenn diese Erfahrungen mit anderen Unternehmen geteilt werden, entsteht ein Mehrwert für die Unternehmen. Wettbewerbsfreiheit ist vorausgesetzt, wird weiterentwickelt und Organisationen werden somit selbst zum Trendsetter[^6].
 
 
 # Siehe auch
