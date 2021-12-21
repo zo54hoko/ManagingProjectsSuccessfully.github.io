@@ -11,7 +11,7 @@ Die Deutsche Gesellschaft für Projektmanagement (GPM) ist ein führender Fachve
 
 # Geschichte
 
-In der 1979 von Roland Gutsch gegründeten Gesellschaft, mit Sitz in Nürnberg, sind nach eigenen Angaben Mitglieder aus der Wirtschaft, den Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an [^2].
+In der 1979 von Roland Gutsch gegründeten Gesellschaft, mit Sitz in Nürnberg, sind nach eigenen Angaben Mitglieder aus der Wirtschaft, den Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an. Seit Februar 2018 wird die aktuell gültige Version ICB 4.0 von der GPM in Deutschland genutzt und wurde 2015 von der IPMA öffentlich gemacht [^2].
 
 
 
@@ -36,7 +36,7 @@ Ergebnisse der Studien berichten über [aktuelle Entwicklungen und zukünftige T
 
 ### Beispiel einer GPM-Studie aus dem Jahre 2007
 
-Immer wieder werden Studien über das Projektmanagement erstellt, um sich mit den Erfolgs- und Misserfolgsfaktoren der Projektarbeit auseinanderzusetzen. Die GPM hat unteranderem eine Studie erstellt, die sich mit Projektfehlschlägen befasst hat. Der Projekterfolg wird vor allem durch die Projektziele und Projektplanung, die Projektleitung, das Projektteam und die interne Zusammenarbeit sowie die Zusammenarbeit mit externen Akteuren beeinflusst. Ein sehr großes Problem für den Projekterfolg stellt dabei eine schlechte Kommunikation bei den Projektmitarbeitern dar. Dass die technischen Anforderungen zu hoch wären oder eine Projektmanagement-Methodik fehle, stelle eher eine geringe Problematik dar[^5].
+Immer wieder werden Studien über das Projektmanagement erstellt, um sich mit den Erfolgs- und Misserfolgsfaktoren der Projektarbeit auseinanderzusetzen. Die GPM hat unter anderem eine Studie erstellt, die sich mit Projektfehlschlägen befasst hat. Der Projekterfolg wird vor allem durch die Projektziele und Projektplanung, die Projektleitung, das Projektteam und die interne Zusammenarbeit sowie die Zusammenarbeit mit externen Akteuren beeinflusst. Ein sehr großes Problem für den Projekterfolg stellt dabei eine schlechte Kommunikation bei den Projektmitarbeitern dar. Dass die technischen Anforderungen zu hoch wären oder eine Projektmanagement-Methodik fehle, stelle eher eine geringe Problematik dar[^5].
 ![Beispielabbildung](https://blog.ibo.de/wp-content/uploads/2013/07/UrsachenProjektfehlschlaege-1024x560.png)
 *Herausforderungen im Projektmanagement*[^5]
 
@@ -45,7 +45,7 @@ Immer wieder werden Studien über das Projektmanagement erstellt, um sich mit de
 Im Zeitraum von November 2015 bis November 2017 hat die GPM ein Flüchtlingsprojekt umgesetzt. Anhand von Projektmanagement haben sich bewährte Projektmanager an der Flüchtlingshilfe- und Integration beteiligt.  
 Herausfordernde Gegebenheiten können durch Projektmanagement, das strategisches und operatives Handeln fördert, einfacher gehandhabt werden.
 Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und unterschiedlichster Instrumente erzielt werden[^6].
-Die GPM setzt konkrete Projekte der Integration von Flüchtlichen auf und initiiert diese. Ein Kick-off Workshop wurde explizit für die Stadt Nürnberg von der GPM erstellt, um Bildungspatenschaften für Flüchlingskinder und andere benachteiligte Kinder und Jugendliche aufzustellen. Derzeit gibt es ein Pilotprojekt seitens der GPM, um Migranten im Projektmanagement zu qualifizieren und zertifizieren[^7]. 
+Die GPM setzt konkrete Projekte der Integration von Flüchtlingen auf und initiiert diese. Ein Kick-off Workshop wurde explizit für die Stadt Nürnberg von der GPM erstellt, um Bildungspatenschaften für Flüchtlingskinder und andere benachteiligte Kinder und Jugendliche aufzustellen. Derzeit gibt es ein Pilotprojekt seitens der GPM, um Migranten im Projektmanagement zu qualifizieren und zertifizieren[^7]. 
 
 
 
